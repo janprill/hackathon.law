@@ -28,9 +28,9 @@ Telefon: Nummer
 
 Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:
 
-https://facebook.com/beispiel
-https://instagram.com/dieser_account
-https://www.xing.com/profile/Musterprofil
+* https://facebook.com/beispiel
+* https://instagram.com/dieser_account
+* https://www.xing.com/profile/Musterprofil
 
 ## Haftungs- und Urheberrechtshinweise
 
