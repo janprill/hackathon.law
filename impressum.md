@@ -24,9 +24,6 @@ Deutschland
 E-Mail-Adresse: email@adresse.de
 Telefon: Nummer
 
-## Streitbeilegung vor einer Verbraucherschlichtungsstelle
-Angaben zur Teilnahme an der Verbraucherstreitschlichtung: Wir sind nicht bereit und nicht verpflichtet an einem Streitbeilegungsverfahren vor einer Verbraucherstreitschlichtungsstelle teilzunehmen.
-
 ## Social Media und andere Onlinepräsenzen
 
 Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:
@@ -36,8 +33,6 @@ https://instagram.com/dieser_account
 https://www.xing.com/profile/Musterprofil
 
 ## Haftungs- und Urheberrechtshinweise
-
-**Haftungsausschluss**: Die Inhalte dieses Onlineangebotes wurden sorgfältig und nach unserem aktuellen Kenntnisstand im Rahmen des bereits oben beschriebenen Hackathon erstellt. Sie dienen allein der Information und entfalten keine rechtlich bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z.B. das Impressum, die Datenschutzerklärung, AGB oder verpflichtende Belehrungen von Verbrauchern) handelt. Wir behalten uns vor, die Inhalte jederzeit vollständig oder teilweise zu ändern oder zu löschen, soweit vertragliche Verpflichtungen davon unberührt bleiben. Alle Angebote sind freibleibend und unverbindlich.
 
 **Links auf fremde Webseiten**: Inhalte fremder Webseiten, auf die wir verweisen, liegen außerhalb unseres Verantwortungsbereiches. Wir machen sie uns nicht zu Eigen. Für alle Inhalte und insbesondere für Schäden, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren Informationen entstehen, haftet allein der Anbieter der verlinkten Webseiten.
 
