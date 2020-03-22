@@ -8,7 +8,9 @@ Diese Seite wurde von einem Team veröffentlicht, das sich in einem sogenannten 
 
 "Ein Hackathon (Wortschöpfung aus „Hack“ und „Marathon“) ist eine kollaborative Soft- und Hardwareentwicklungs­veranstaltung. Alternative Bezeichnungen sind „Hack Day“, „Hackfest“ und „codefest“. Ziel eines Hackathons ist es, innerhalb der Dauer dieser Veranstaltung gemeinsam nützliche, kreative oder unterhaltsame Softwareprodukte herzustellen oder, allgemeiner, Lösungen für gegebene Probleme zu finden." (https://de.wikipedia.org/wiki/Hackathon)
 
-Wir, das Team hinter <website.domain> haben uns mit unserem Beitrag  vorgenommen: <Kurzbeschreibung aus devpost>.
+Wir, das Team hinter `website.domain` haben uns mit unserem Beitrag  vorgenommen: `Kurzbeschreibung aus devpost`.
+
+Der Hackathon, aus dem diese Seite hervorgegangen ist, ist der von `xy` veranstaltete Hackathon `xy`, über den Sie sich unter `website` informieren können.
 
 **Disclaimer**: Zu einem Hackathon gehört, dass man sich als Team sehr kurzfristig zusammenfindet und dann, mit hohem Energieeinsatz und unter Zeitdruck Lösungen schafft, für die Softwareenwicklungs- und Projektteams sonst ein vielfaches der Zeit benötigen würden. In einer solchen Situation ist Perfektionismus weder gewünscht noch möglich. Wir bemühen uns dennoch, alle rechtlichen Anforderungen sinnvoll zu erfüllen und Ihnen die Möglichkeit zu geben, sich hier über den Anbieter dieses Dienstes zu informieren. Bitte haben Sie Verständnis dafür, dass es sich um einen Wettbewerbsbeitrag handelt, der für den Publikumsverkehr erst in den nächsten Tagen und Wochen genutzt werden kann. Soweit sich für diesen Beitrag eine Betreibergesellschaft findet, resp. bildet, wird diese das Impressum sofort auf den dann geltenden Stand bringen. Bis dahin gilt als Dienstanbieter dieses noch experimentellen Angebots:
 
